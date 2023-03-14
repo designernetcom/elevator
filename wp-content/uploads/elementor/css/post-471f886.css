@@ -1,0 +1,34 @@
+.elementor-471 .elementor-element.elementor-element-492e30c{padding:50px 0px 50px 0px;}.elementor-471 .elementor-element.elementor-element-8841aaf .elementor-heading-title{color:#3D3D68;font-family:"Poppins", Sans-serif;font-size:28px;font-weight:600;}.elementor-471 .elementor-element.elementor-element-11ca297 .elementor-heading-title{color:#000000;font-family:"Poppins", Sans-serif;font-size:18px;font-weight:600;line-height:23px;}.elementor-471 .elementor-element.elementor-element-a405867{color:#000000;font-family:"Poppins", Sans-serif;}.elementor-471 .elementor-element.elementor-element-a405867 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-471 .elementor-element.elementor-element-ba70fde .elementor-button{font-family:"Poppins", Sans-serif;background-color:#3D3D68;border-style:solid;border-color:#3D3D68;}.elementor-471 .elementor-element.elementor-element-ba70fde .elementor-button:hover, .elementor-471 .elementor-element.elementor-element-ba70fde .elementor-button:focus{background-color:#000000;}.elementor-471 .elementor-element.elementor-element-34ace39 > .elementor-background-overlay{background-color:#F3F3F3;opacity:0.5;}.elementor-471 .elementor-element.elementor-element-34ace39{padding:50px 0px 50px 0px;}.elementor-471 .elementor-element.elementor-element-56b2a5c{text-align:justify;}.elementor-471 .elementor-element.elementor-element-56b2a5c .elementor-heading-title{color:#3d3d68;font-family:"Poppins", Sans-serif;font-size:30px;}.elementor-471 .elementor-element.elementor-element-2388f61{font-family:"Poppins", Sans-serif;}.elementor-471 .elementor-element.elementor-element-8ef98f3{padding:50px 0px 50px 0px;}.elementor-471 .elementor-element.elementor-element-5c816dc{text-align:justify;}.elementor-471 .elementor-element.elementor-element-5c816dc .elementor-heading-title{color:#3d3d68;font-family:"Poppins", Sans-serif;font-size:30px;}.elementor-471 .elementor-element.elementor-element-83c6126{font-family:"Poppins", Sans-serif;}.elementor-471 .elementor-element.elementor-element-62ca56a{font-family:"Poppins", Sans-serif;}@media(min-width:768px){.elementor-471 .elementor-element.elementor-element-af7bc47{width:50%;}.elementor-471 .elementor-element.elementor-element-235272b{width:50%;}.elementor-471 .elementor-element.elementor-element-82dbf92{width:70%;}.elementor-471 .elementor-element.elementor-element-d863198{width:30%;}.elementor-471 .elementor-element.elementor-element-516f01a{width:30%;}.elementor-471 .elementor-element.elementor-element-ea4e010{width:70%;}}/* Start custom CSS for button, class: .elementor-element-ba70fde */:root{
+    --first-color: #ef32d9;
+    --second-color: #89fffd;
+    --size: 100px;
+    --speed: 4s;
+}
+.elementor-471 .elementor-element.elementor-element-ba70fde{
+    overflow: hidden !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.elementor-471 .elementor-element.elementor-element-ba70fde:before{
+    content: '';
+    position: absolute;
+    width: var(--size);
+    height: 140%;
+    background: linear-gradient(var(--first-color), var(--second-color));
+    animation: animate var(--speed) linear infinite;
+}
+@keyframes animate{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}/* End custom CSS */
+/* Start custom CSS for bdevs-callto, class: .elementor-element-7b5accae */.pdb-50 {
+    padding-bottom: 10px;
+}
+.pdt-50 {
+    padding-top: 15px;
+}/* End custom CSS */
